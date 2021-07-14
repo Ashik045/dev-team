@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Lobster&family=Noto+Sans+TC&family=Yanone+Kaffeesatz:wght@600&display=swap");
+
+.rImage {
+  height: 70px;
+  width: 70px;
+  border-radius: 50%;
+  border: 5px solid #ec273e;
+  margin-top: -20px;
+  margin-right: -10px;
+}
+
+.card {
+  z-index: 100;
+  box-shadow: -10px 10px grey;
+  border-radius: 10px;
+}
+
+.mySwiper {
+  padding: 30px 10px;
+  height: 300px;
+}
+
+.cName {
+  font-family: "Lobster", cursive;
+}

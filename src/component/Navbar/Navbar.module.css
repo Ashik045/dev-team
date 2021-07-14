@@ -1,0 +1,19 @@
+.activeNav {
+  background-color: #fccde2;
+  color: white !important;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.logo {
+  height: 30px;
+  width: 70px;
+}
+
+.topBtn {
+  position: fixed;
+  right: 50px;
+  bottom: 30px;
+  padding: 8px 12px;
+  background-color: #fc95c3;
+  z-index: 10;
+}

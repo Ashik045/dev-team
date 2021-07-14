@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:ital,wght@0,300;0,700;1,300&family=Otomanopee+One&display=swap");
+
+.asection {
+  background-color: #decac0;
+  height: 550px;
+}
+.aImage {
+  max-width: 95%;
+  height: auto;
+}
+
+.aimg {
+  background-color: #ff6e7f;
+}
+
+.aheader {
+  padding-bottom: 10px;
+  border-bottom: 5px solid #ff6e7f;
+}
+
+.btext {
+  font-family: "Otomanopee One", sans-serif;
+}
+
+.aicon {
+  font-size: 50px;
+}

@@ -1,0 +1,15 @@
+.footer {
+  background-image: url(../Image/footerBg.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.svgbg {
+  width: 100%;
+  height: 200px;
+}
+
+.ltext {
+  margin-top: -40px;
+}
